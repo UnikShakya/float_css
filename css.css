@@ -1,0 +1,14 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+.l{
+    float: left;
+}
+.r{
+    float: right;
+}
+.cc{
+    clear: both;
+}
